@@ -53,7 +53,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Writer",
       icon: creator,
     },
   ];
@@ -146,6 +146,19 @@ import {
     },
   ];
   const experiences = [
+
+    {
+      title: " CX Technical Apprentice ",
+      company_name: "CISCO",
+      iconBg: "#E6DEDD",
+      date: "Nov 2024 - Nov 2025",
+      points: [
+        "Assisting in automating device and asset management for various clients using Cisco Management Services (CMS) to improve operational efficiency.",
+        "Working with platforms like Citrix and CLI Splunk, and other tools to monitor analyze, and enhance system performance and security.",
+        "Gaining hands-on experience in customer experience service by streamlining processes, troubleshooting issues, and optimizing automation workflows.",
+      
+      ],
+    },
     
     {
           title: "Video Editor",
@@ -160,6 +173,7 @@ import {
           
           ],
         },
+
         {
           title: "Frontend Developer",
           company_name: "InternPe",
