@@ -53,7 +53,7 @@ import {
       icon: backend,
     },
     {
-      title: "Writer",
+      title: "Content Creator",
       icon: creator,
     },
   ];
